@@ -14,9 +14,9 @@
 	"platform":"",
 	"server": {
 		"domain": "localhost",
-		"port": 3032,
+		"port": 3005,
 		"httpsPort": 443,
-		"socketPort": 3033,
+		"socketPort": 3006,
 		"serverPath": "/",
 		"appPath": "/",
 		"staticFilePath": "/src/",

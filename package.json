@@ -2,7 +2,7 @@
 	"author": "mirazalmamun@gmail.com",
 	"name": "bdHistory",
 	"version": "0.0.0",
-	"description": "An app to list and post bangladesh history",
+	"description": "bangladesh history",
 	"homepage": "https://github.com/mirazmamun/bdHistory",
 	"dependencies": {
 		"rpc.js": "~0.4.3",

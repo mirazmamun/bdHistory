@@ -5,10 +5,9 @@
 	"authors": [
 		"mirazalmamun@gmail.com"
 	],
-	"description": "An app to list and post bangladesh history",
+	"description": "bangladesh history",
 	"keywords": [
-		"BHHistory",
-		"MEAN"
+		"BHHistory"
 	],
 	"dependencies": {
 		"angular": "1.2.5",
