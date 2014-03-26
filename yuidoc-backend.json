@@ -1,0 +1,11 @@
+{
+    "name": "bdHistory",
+    "description": "bangladesh history",
+    "version": "0.0.0",
+    "url": "https://github.com/mirazmamun/bdHistory",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
